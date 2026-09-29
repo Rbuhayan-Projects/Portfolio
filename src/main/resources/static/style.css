@@ -175,6 +175,7 @@ footer p {
 }
 
 footer a {
+    font-family: "Courier New", monospace;
     color: #22c55e;
     text-decoration: none;
 }
